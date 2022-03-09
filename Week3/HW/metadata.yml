@@ -1,0 +1,12 @@
+---
+:id: 110949570
+:submitters:
+- :name: Dev Patel
+  :email: devrpatel04@tamu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-12 04:32:27.118018000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-11 20:32:27.118018000 Z
+:status: processed
+:score: 91.0
